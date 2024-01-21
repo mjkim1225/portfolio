@@ -64,7 +64,7 @@
     },
     {
       "projectName": "쇄빙선 극지 안전운항 해빙자료 지원시스템 유지보수",
-      "date": "2022.12.22 - 2022.12.22",
+      "date": "2022.12.22 - 2023.2.1",
       "description": "쇄빙선 극지 안전운항 해빙자료 지원시스템 유지보수로, 혼자 담당했습니다. ",
       "techStacks": ["MicroService", "Vue.js", "JavaScript", "Gitlab", "Openlayers", "Geoserver", "GDAL", "Postgresql", "JAVA", "Spring Boot", "JPA", "Vite", "Mybatis", "Docker", "Jenkins"],
       "mainTask": [
