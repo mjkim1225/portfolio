@@ -157,14 +157,14 @@ const Main = () => {
                 <ul className="flex gap-2">
                   <li>
                     <a href="mailto:01026599478a@gamil.com" className="block w-8 h-8">
-                      <img src="portfolio/images/contact/gmail.svg" alt="gmail" />
+                      <img src="/portfolio/images/contact/gmail.svg" alt="gmail" />
                     </a>
                   </li>
                 </ul>
               </div>
               <div className="relative w-16 h-16 lg:w-24 lg:h-24">
                 <img
-                  src="portfolio/images/me3x4.jpeg"
+                  src="/portfolio/images/me3x4.jpeg"
                   alt="김민정 프로필 사진"
                   className="w-full h-full object-contain"
                 />
