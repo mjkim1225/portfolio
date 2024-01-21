@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mjkim.github.io/Mjkim-Portfolio",
+  "homepage": "https://mjkim.github.io/portfolio",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
