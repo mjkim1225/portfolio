@@ -102,7 +102,6 @@ const Main = () => {
           <ol>
             <li className="flex gap-8 lg:gap-4 py-8 flex-col lg:flex-row">
               <div className="basis-0 lg:basis-60">
-                <h3 className="text-2xl">Front-End</h3>
               </div>
 
               <ol className="flex-1">
